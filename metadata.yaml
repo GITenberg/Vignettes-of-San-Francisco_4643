@@ -1,0 +1,24 @@
+_repo: Vignettes-of-San-Francisco_4643
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morey, Almira
+    alias: Bailey, Almira
+    birthdate: 1819
+    gutenberg_agent_id: '1527'
+    url: http://www.gutenberg.org/2009/agents/1527
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4643'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'San Francisco (Calif.)'
+- !lcc 'F850.5'
+- GITenberg
+title: Vignettes of San Francisco
+url: http://www.gutenberg.org/ebooks/4643
